@@ -17,11 +17,11 @@ Please download Mconnectmedia_CmsPageCanonicalUrl.Zip from given URL. Now, unzip
 
 Run Command List
 
-php bin/magento module:enable Mconnectmedia_CmsPageCanonicalUrl
-php bin/magento setup:upgrade 
-php bin/magento cache:flush 
-php bin/magento cache:clean 
-rm -rf var/di var/generation var/cache
+php bin/magento module:enable Mconnectmedia_CmsPageCanonicalUrl<br>
+php bin/magento setup:upgrade<br> 
+php bin/magento cache:flush<br> 
+php bin/magento cache:clean<br> 
+rm -rf var/di var/generation var/cache<br>
 
 
 <h2>Back-end Options</h2>
