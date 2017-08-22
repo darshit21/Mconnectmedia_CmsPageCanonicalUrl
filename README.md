@@ -31,8 +31,8 @@ You can access its setting through Admin panel. Easy to use and manage!
 <h3>Admin Setting</h3>
 <img src="http://mconnectmedia.com/pub/media/github/admin_canonical.jpg" />
 
-<h3><center>Canonical URL with Trailing Slash</center></h3><br>
+<h3><center>Canonical URL without Trailing Slash</center></h3><br>
 <img src="https://www.mconnectmedia.com/pub/media/github/canonical.jpg" />
 
-<h3><center>Canonical URL without without Trailing Slash</center></h3><br>
+<h3><center>Canonical URL with Trailing Slash</center></h3><br>
 <img src="https://www.mconnectmedia.com/pub/media/github/canonical_trailing_slash.jpg" />
