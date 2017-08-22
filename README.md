@@ -1,5 +1,8 @@
 # Mconnectmedia_CmsPageCanonicalUrl
-Canonical URL for CMS Page - Magento 2 Website SEO by
+Canonical URL for CMS Page - Magento 2 Website SEO by <br>
+
+Download Mconnectmedia_CmsPageCanonicalUrl.Zip unzip it <br>
+Upload in magento root  and run below Command <br>
 
 Run Command List
 
