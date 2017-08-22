@@ -1,5 +1,4 @@
-# Mconnectmedia_CmsPageCanonicalUrl
-Canonical URL for CMS Page - Magento 2 Website<br>
+<h1>Canonical URL for CMS Page - Magento 2 Website</h2>
 
 With the default, Magento set up developer enable to add canonical URL on Product and category page directly using admin panel. Unfortunately, it is not so in the case of CMS pages.  
 
@@ -11,6 +10,8 @@ Using the same, it automatically adds canonical URL, as a display in the head. M
 <li>It lets you keep trailing slash at the end of the URL</li>
 <li>It lets you remove trailing slash at the end of the URL</li>
 </ol>
+
+<h2>Setup</h2>
 
 You can access its setting through Admin panel. Easy to use and manage! 
 
@@ -26,7 +27,7 @@ php bin/magento cache:flush <br>
 php bin/magento cache:clean <br>
 rm -rf var/di var/generation var/cache <br><br>
 
-<h2><center>Admin Setting</center></h2><br>
+<h2>Admin Setting</h2>
 <img src="http://mconnectmedia.com/pub/media/github/admin_canonical.jpg" />
 
 
