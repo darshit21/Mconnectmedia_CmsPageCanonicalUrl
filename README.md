@@ -13,9 +13,6 @@ Using the same, it automatically adds canonical URL, as a display in the head. M
 
 <h2>Setup</h2>
 
-You can access its setting through Admin panel. Easy to use and manage! 
-
-
 Download Mconnectmedia_CmsPageCanonicalUrl.Zip unzip it <br>
 Upload in magento root  and run below Command <br>
 
@@ -27,12 +24,15 @@ php bin/magento cache:flush <br>
 php bin/magento cache:clean <br>
 rm -rf var/di var/generation var/cache <br><br>
 
-<h2>Admin Setting</h2>
+<h2>Back-end Options</h2>
+
+You can access its setting through Admin panel. Easy to use and manage! 
+
+<h3>Admin Setting</h3>
 <img src="http://mconnectmedia.com/pub/media/github/admin_canonical.jpg" />
 
-
-<h2><center>Canonical URL</center></h2><br>
+<h3><center>Canonical URL with Trailing Slash</center></h3><br>
 <img src="https://www.mconnectmedia.com/pub/media/github/canonical.jpg" />
 
-<h2><center>Canonical Trailing Slash</center></h2><br>
+<h3><center>Canonical URL without without Trailing Slash</center></h3><br>
 <img src="https://www.mconnectmedia.com/pub/media/github/canonical_trailing_slash.jpg" />
