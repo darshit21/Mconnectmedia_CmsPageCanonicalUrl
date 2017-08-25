@@ -29,7 +29,7 @@ class LayoutLoadBefore implements ObserverInterface
 			if ($action == 'cms_page_view' || $action == 'cms_index_index') {	
 
 				$canonicalUrl= $this->urlInterface->getCurrentUrl();
-				echo $trailing_slash=$this->helper->getConfig('mconnectmedia_cpcu/general/trailing_slash');
+				$trailing_slash=$this->helper->getConfig('mconnectmedia_cpcu/general/trailing_slash');
 					if($trailing_slash){
 						$canonicalUrl=rtrim($canonicalUrl,'/');	
 					}				
