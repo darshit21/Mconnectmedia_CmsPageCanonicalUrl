@@ -21,7 +21,7 @@
 				</field>
 				
 				<field id="trailing_slash" translate="label" type="select" sortOrder="2" showInDefault="1" showInWebsite="1" showInStore="1">
-					<label>Enable Trailing slash </label>
+					<label>Remove Trailing slash </label>
 					<source_model>Magento\Config\Model\Config\Source\Yesno</source_model>
 				</field>							
 				
